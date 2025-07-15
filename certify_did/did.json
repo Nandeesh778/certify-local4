@@ -8,14 +8,13 @@
     {
       "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
       "publicKeyJwk": {
-        "kty": "EC",
-        "crv": "secp256k1",
-        "x": "MAENyz31xN0SGbqz5w3ensn1pLOGAjsCR8WM4vDpDM8",
-        "y": "dLDlD5xcYKGfgwJLg5nQd9d_qALHzGU51ndWFOyq0wI"
+        "kty": "RSA",
+        "e": "AQAB",
+        "n": "sbOjdVjikXy6NcGxKSt5V42qWkWXt6tkz9aLqkMEYXRg-TwCtZCUwh1_XDJNm0UrrCnmH1fCbJ788Jg8AQrpd4SnE7gHBg4tvMKtPZIhzVp2iydI603wHohLDXVQWsVxEs9Vnxon1jd-ssyVqO_jJOstUDGJKKdn9JEvtsCTc-1mjELmBUSCraPJ5zUctX266daih1nSEg0e-92EthX0k9XwVg3hP9IhLDnmlzEBvMYJHkuDmQ-s6Ze0X9DgSuHhFI2A64wyKHGTDWoY_0uZSYhkQZcFAkA99ftrvIFoPSjyCact8RPB5317Q3HrSO4qElyhK179hv2pD3mKvlCK9Q"
       },
       "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0",
-      "type": "EcdsaSecp256k1VerificationKey2019",
-      "@context": "https://w3id.org/security/v1"
+      "type": "JsonWebKey2020",
+      "@context": "https://w3id.org/security/suites/jws-2020/v1"
     }
   ],
   "@context": [
