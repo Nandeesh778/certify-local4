@@ -6,15 +6,11 @@
   "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
   "verificationMethod": [
     {
+      "publicKeyMultibase": "z6MkjJeCGEqQTWGV1ybAJLEyqVSvBR3zivkXXBRAJhG3Gc7p",
       "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
-      "publicKeyJwk": {
-        "kty": "RSA",
-        "e": "AQAB",
-        "n": "pAc9Iq6hGEMfdvbHpUrnZeQ8-LHpU3e-B65uK1_guoIbB6h8OjApBHouIKihp0jakGSQOyvlu4-YYMcEoNgLbd1KJGFGpAzmgB0it3MHGJs-6f6D-7QyJmnRU2CXtQQwGviAg0kLA5xFk7nJcv9DIAFreSpf5QwflLbBe2cFvMqb-tq7a7ulngkHDnt2nM0DA5ZvR8a3bn8kJrOpZyoqI2xt8H-Cylc8_PYpWpV7GRM_oPv_rPNvq1DY7HEX996h_Lo9V1Lyb0FjQscBrRtTy9Im_A9iuJ-fSSXVRdHWoftfqT-72ObWRsrHrdR9sEpk1zPFDQfKfWMpxz2wrkzmWw"
-      },
       "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0",
-      "type": "JsonWebKey2020",
-      "@context": "https://w3id.org/security/suites/jws-2020/v1"
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
   ],
   "@context": [
