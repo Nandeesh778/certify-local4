@@ -10,8 +10,8 @@
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "secp256k1",
-        "x": "ScR7Vb4wwYpXa_4J759_5JUIBmDVOeWppAw1PlmUbZU",
-        "y": "DhZM7-rIhUVgJpMRDqvRCQllN8FrCypPCS6piHsIdrU"
+        "x": "KzL2hAMeIrGKePcnANVmfWf17E2Q35B1gEYAxg4ign4",
+        "y": "VerbUD55-x0nnV3M4NsjNlDCdFhdSGXqTeAhQaJZu50"
       },
       "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0",
       "type": "EcdsaSecp256k1VerificationKey2019",
