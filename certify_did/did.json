@@ -1,38 +1,14 @@
 {
   "assertionMethod": [
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0",
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-1",
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-2",
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-3"
+    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0"
   ],
   "service": [],
   "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkrsMF33mCpWFp8KnPeQsuV7TMx3QGQWvXFmJk86X8Acn7",
+      "publicKeyMultibase": "z6Mki5W5TtubnR3WRFHW5maL2QeuKWLvvqfuhVwdCEW6Xmmu",
       "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
       "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0",
-      "type": "Ed25519VerificationKey2020",
-      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
-    },
-    {
-      "publicKeyMultibase": "z6MkrAPH51uv6iBuENcJfNtnjKBLzm58vEPjJZNuaDXNy8ab",
-      "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
-      "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-1",
-      "type": "Ed25519VerificationKey2020",
-      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
-    },
-    {
-      "publicKeyMultibase": "z6MktaHz75jGccMUx1wskE2aZWCWzAv4Ec4PnQeXMBvc6yuX",
-      "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
-      "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-2",
-      "type": "Ed25519VerificationKey2020",
-      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
-    },
-    {
-      "publicKeyMultibase": "z6Mkgd6FL85dRygNvhSSvijG4bLtKe7N7qqExgzy8YEBaf2o",
-      "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
-      "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-3",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -42,9 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0",
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-1",
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-2",
-    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-3"
+    "did:web:Nandeesh778.github.io:certify-local4:certify_did#key-0"
   ]
 }
