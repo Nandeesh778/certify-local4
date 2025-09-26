@@ -6,7 +6,7 @@
   "id": "did:web:Nandeesh778:certify-local4:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkmb6Fiahah518HAiyZBJQWiocGWm67rGbJPi2p1y7eB8i",
+      "publicKeyMultibase": "z6MkwbpgKLs5kXzFM9ni7mokfhZ2G7H1ZqgjLzGd1EoiWZkC",
       "controller": "did:web:Nandeesh778:certify-local4:certify_did",
       "id": "did:web:Nandeesh778:certify-local4:certify_did#sXM3p_2ZsqV771tghJ30bZscNE8vHWCu6wgqb0VDJ_c",
       "type": "Ed25519VerificationKey2020",
