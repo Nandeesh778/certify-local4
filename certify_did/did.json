@@ -6,9 +6,9 @@
   "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkgP3eBdTbPbWbXFpxrtCdFLThwnxPKyPtsSb5cVTtcpRX",
+      "publicKeyMultibase": "z6MktjYNT2Aj4jtdgf8Sk7iKZAcWhGSx8bo6BDEkeQ4r8eW2",
       "controller": "did:web:Nandeesh778.github.io:certify-local4:certify_did",
-      "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#CVlXsGpS7wCkQu2nmaJNf9uLGGyZAHrQvgYCM90uHVE",
+      "id": "did:web:Nandeesh778.github.io:certify-local4:certify_did#FKjz81ahV-4heGCYzoxeS-ChE6s0H-6PBrm_rJ3oZN8",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
